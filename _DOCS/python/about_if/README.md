@@ -192,6 +192,8 @@ Os operadores lógicos são:
 
 Você também pode usar o comando `if` numa linha, sem toda a estrutura de bloco. Isso é chamado de `if ternário`.
 
+em particular, eu aprendi sobre if ternário com Javascript e depois fui ver se o python tinha algo parecido, e tinha! um ótimo uso dele é no arquivo de settings do Django, quando você carrega um arquivo .env nele, avaliar um valor numa linha só abre várias possibilidades.
+
 ```python
 valor = 10
 valor if valor > 5 else 0
