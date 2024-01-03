@@ -1,27 +1,27 @@
 # ThePosts
 
-Here you can find about what i learned and what i am learning.
+Aqui você pode encontrar informações sobre o que aprendi e o que estou aprendendo.
 
-I am always experimenting with new technologies, often doing the same thing in various languages—it's a habit I cultivate. That's why you'll often find topics here that seem a bit out of context. It's my way of pushing my creativity and gaining experience. Additionally, subjects related to economics, biology, politics, and philosophy are areas I delve into to broaden my horizons. Studying all of this in an alternating manner helps me piece together complex puzzles, sometimes unfortunately seeming senseless, but at least tested in my mind. Finally, I have the habit of writing, which helps me absorb all the subjects I enjoy and want to learn.
+Estou sempre experimentando com novas tecnologias, frequentemente fazendo a mesma coisa em várias linguagens - é um hábito que cultivo. É por isso que você frequentemente encontrará tópicos aqui que parecem um pouco fora de contexto. É minha maneira de estimular minha criatividade e ganhar experiência. Além disso, assuntos relacionados a economia, biologia, política e filosofia são áreas em que eu mergulho para ampliar meus horizontes. Estudar tudo isso de maneira alternada me ajuda a montar quebra-cabeças complexos, às vezes infelizmente parecendo sem sentido, mas pelo menos testados em minha mente. Finalmente, tenho o hábito de escrever, o que me ajuda a absorver todos os assuntos que aprecio e quero aprender.
 
 <!--STARTTOPICS-->
 
-## Topics
+## Tópicos
 
-Here are the topics I study; those marked with an 'x' are already completed.
+Aqui estão os tópicos que estudo; aqueles marcados com um 'x' já estão concluídos.
 
 ### Python
 
 * [ ] - [Django](_DOCS/python/django/README.md)
-* [ ] - [About If](_DOCS/python/about_if/README.md)
+* [ ] - [Sobre If](_DOCS/python/about_if/README.md)
 * [ ] - [Argparse](_DOCS/python/argparse/README.md)
-* [ ] - [How To Order A Dict](_DOCS/python/how_to_order_a_dict/README.md)
+* [ ] - [Como ordenar um Dict](_DOCS/python/how_to_order_a_dict/README.md)
 * [ ] - [Pandas](_DOCS/python/pandas/README.md)
 * [ ] - [Pyautogui](_DOCS/python/pyautogui/README.md)
 * [ ] - [Sqlite3](_DOCS/python/sqlite3/README.md)
 * [ ] - [Virtualenv](_DOCS/python/virtualenv/README.md)
-* [ ] - [Why You Use Join In Sql Statement](_DOCS/python/why_you_use_join_in_SQL_statement/README.md)
-* [ ] - [How To Create Class](_DOCS/python/how_to_create_class/README.md)
+* [ ] - [Poque usar join numa consulta SQL](_DOCS/python/why_you_use_join_in_SQL_statement/README.md)
+* [ ] - [Como criar uma classe](_DOCS/python/how_to_create_class/README.md)
 
 
 ### Javascript
@@ -31,7 +31,7 @@ Here are the topics I study; those marked with an 'x' are already completed.
 
 ### Rust
 
-* [ ] - [The First Project](_DOCS/rust/the_first_project/README.md)
+* [ ] - [O primeiro projeto](_DOCS/rust/the_first_project/README.md)
 
 
 ### Security

@@ -21,10 +21,10 @@ def run(folder,subject):
         f = open(f"_DOCS/{folder}/{subject}/README.md", "w")
         f.write(f"# {subject}\n\n")
         f.write(f"---\n\n")
-        f.write(f"creation: {datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n\n")
+        f.write(f"criado em: {datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n\n")
         f.write(f"---\n\n")
-        f.write(f"## Description\n\n")
-        f.write(f"## Examples\n\n")
+        f.write(f"## Introdução\n\n")
+        f.write(f"## Exemplos\n\n")
         f.close()
 
 
