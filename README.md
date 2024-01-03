@@ -1,4 +1,4 @@
-# TheDocs
+# ThePosts
 
 Here you can find about what i learned and what i am learning.
 
