@@ -18,5 +18,12 @@ Agora, vamos ao exemplo prático desta bagaça.
 
 Este script é usado neste repositório para gerar um padrão de arquivos e pastas, da minha parte agora só é necessário indicar a pasta e assunto via linha de comando para criar o básico do básico, e isso é fantástico em vários sentidos.
 
+o exemplo completo pode ser visto [aqui](
+https://github.com/alfredohjr/thePosts/blob/master/src%2FcreateDOCSBase.py)
 
+o bloco que nos interessa é esse:
+
+```pyhon 
+
+```
 
