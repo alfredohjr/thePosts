@@ -23,7 +23,8 @@ def run(folder="_DOCS"):
         if line.startswith("<!--STARTTOPICS-->"):
             tmp_readme.append(line)
             for topic in topics:
-                test = [x for x in readme if x.find(topic) >= 0]
+                t = topic.split("]")[1]
+                test = [x for x in readme if x.find(t) >= 0]
                 if len(test) > 0:
                     continue
                 tmp_readme.append(f"* [ ] - {topic}\n")
