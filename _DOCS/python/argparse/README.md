@@ -23,7 +23,13 @@ https://github.com/alfredohjr/thePosts/blob/master/src%2FcreateDOCSBase.py)
 
 o bloco que nos interessa é esse:
 
-```pyhon 
+```python 
 
-```
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description='Add the README.md to the documentation')
+    parser.add_argument('--folder', type=str, help='Folder to add the README.md')
+
+    args = parser.parse_args()
+
+    run(folder=args.folder)```
 
