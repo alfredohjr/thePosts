@@ -24,12 +24,26 @@ https://github.com/alfredohjr/thePosts/blob/master/src%2FcreateDOCSBase.py)
 o bloco que nos interessa é esse:
 
 ```python 
-
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description='Add the README.md to the documentation')
-    parser.add_argument('--folder', type=str, help='Folder to add the README.md')
+    parser = argparse.ArgumentParser(description='Create the base of the documentation')
+    parser.add_argument('--folder', type=str, help='Folder to create the documentation')
+    parser.add_argument('--subject', type=str, help='Subject of the documentation')
 
     args = parser.parse_args()
 
-    run(folder=args.folder)```
+    run(folder=args.folder,subject=args.subject)
+```
 
+desta forma, se eu simplesmente chamar o script assim no terminal.
+
+```bash
+python src/createDOCSBase.py --folder python --subject "how datetime module works"
+```
+
+e já vai ser criado um arquivo base para que depois eu possa editar.
+
+esse é um exemplo bem simples do que pode ser feito.
+
+você pode chamar isso num subprocess por exemplo, pegar uma lista de tópicos e adicionar, da mesma forma pode importar a função run num outro script e também gerar várias estruturas básicas, mas já prontas.
+
+por hoje é só, e aí, gostou da dica, alguma sugestão? manda aí.
