@@ -1,16 +1,11 @@
-# how_to_order_a_dict
+# Como ordenar um dicionario através de uma key?
 
 ---
 
-creation: 2024-01-01 15:21
+criado em: 2024-01-01 15:21
 
 ---
 
-## Description
+## Introdução
 
-## Examples
-
-## References
-
-## Contact
-
+## Exemplos
